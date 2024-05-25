@@ -1,0 +1,16 @@
+/home/data_analyst/carbon_footprint/target/debug/deps/libstellar_xdr-2a531e9d751abf10.rmeta: /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/lib.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/mod.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/generated.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/str.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_conversions.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_validations.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scmap.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/curr-version /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/next-version
+
+/home/data_analyst/carbon_footprint/target/debug/deps/stellar_xdr-2a531e9d751abf10.d: /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/lib.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/mod.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/generated.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/str.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_conversions.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_validations.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scmap.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/curr-version /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/next-version
+
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/lib.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/mod.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/generated.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/str.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_conversions.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scval_validations.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/curr/scmap.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/curr-version:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stellar-xdr-21.0.1/src/../xdr/next-version:
+
+# env-dep:CARGO_PKG_VERSION=21.0.1
+# env-dep:GIT_REVISION=da0cbc6f75eaf03423810b8e9d730a03dfa8517e

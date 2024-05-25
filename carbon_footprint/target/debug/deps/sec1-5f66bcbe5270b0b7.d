@@ -1,0 +1,11 @@
+/home/data_analyst/carbon_footprint/target/debug/deps/libsec1-5f66bcbe5270b0b7.rmeta: /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/lib.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/point.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/error.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/parameters.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/private_key.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/traits.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/../README.md
+
+/home/data_analyst/carbon_footprint/target/debug/deps/sec1-5f66bcbe5270b0b7.d: /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/lib.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/point.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/error.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/parameters.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/private_key.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/traits.rs /home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/../README.md
+
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/lib.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/point.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/error.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/parameters.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/private_key.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/traits.rs:
+/home/data_analyst/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sec1-0.7.2/src/../README.md:
